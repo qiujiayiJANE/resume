@@ -5,7 +5,7 @@ style.css
 }
 
 body {
-    background: url("Jane  website/background.jpeg"); 
+    background: url("background.jpeg"); 
     background-repeat: no-repeat;
     background-attachment: fixed; 
     background-size: cover;
@@ -19,7 +19,7 @@ body {
  
 .top {
     overflow: hidden;
-  background: url("Jane  website/background.jpeg")
+  background: url("background.jpeg")
 }
 .top a {
   float: left;
