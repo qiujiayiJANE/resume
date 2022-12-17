@@ -1,0 +1,16 @@
+h1{
+color: rgb(116, 191, 234);
+font-family: Georgia, 'Times New Roman', Times, serif;
+ font-size: 100px;
+}
+    h2{
+     color:rgba(77, 230, 225, 0.953) ;
+    font-family: 'Luci Sadans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 40px;
+    }
+    body {
+        background: url("background.jpeg"); 
+        background-repeat: no-repeat;
+        background-attachment: fixed; 
+        background-size: cover;
+     }  
